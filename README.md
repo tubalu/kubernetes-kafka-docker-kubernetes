@@ -20,3 +20,7 @@ kubectl config current-context
 ```
 sh install.sh
 ```
+## clean up :
+```
+sh uninstall.sh
+```
