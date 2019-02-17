@@ -16,11 +16,11 @@ make sure current context "docker-for-desktop" by  run command:
 kubectl config current-context
 ```
 
-## install kafka by run command :
+## Install kafka by run command :
 ```
 sh install.sh
 ```
-## clean up :
+## Clean up :
 ```
 sh uninstall.sh
 ```
